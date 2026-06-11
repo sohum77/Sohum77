@@ -4,17 +4,16 @@
 
 🏫 University of Strathclyde, Glasgow, UK (Graduating Jan 2027)
 
-🌍 UK Graduate Route Visa eligible - no sponsorship required
+🌍 UK Graduate Route Visa eligible - No Sponsorship Required
 
-💡 Interests: Data Science, Machine Learning, NLP, Computer Vision
+💡 Interests: Data Science, Machine Learning and NLP
 
-🛠 Skills: Python, SQL, Pandas, NumPy, Scikit-learn, PyTorch, BERT, YOLOv5, Power BI, Flask, Streamlit, Git
+🛠 Skills: Python, SQL, BERT, YOLOv5, Power BI,Cognos Analytics,Git
 
 📌 Featured Projects:
 - **Cyberbullying Detection System** (BERT, NLP, Flask, PyQt5) - 94% accuracy
 - **Traffic Sign Detection** (YOLOv5, OpenCV, PyTorch) - real-time detection
-- **Customer Churn Prediction** (XGBoost, Streamlit) - 🔄 in progress
-- **UK Crime Analysis Dashboard** (Python, SQL, Power BI) - 🔄 in progress
+- **Production-Ready Recommendation System** (FastAPI, Docker, Cloud) - 🔄 in progress
 
 🏅 Certifications:
 - Google Data Analytics - Coursera (2026)
