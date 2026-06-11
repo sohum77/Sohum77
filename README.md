@@ -27,4 +27,4 @@
 - LinkedIn: https://linkedin.com/in/sohum-patil
 - Kaggle: https://www.kaggle.com/sohumpatil
 
-📫 Open to Graduate Data Scientist, Data Analyst & ML Engineer roles — UK or worldwide remote
+📫 Open to Graduate Data Scientist, Data Analyst & ML Engineer roles - UK or worldwide remote
