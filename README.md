@@ -17,9 +17,9 @@
 - **UK Crime Analysis Dashboard** (Python, SQL, Power BI) - 🔄 in progress
 
 🏅 Certifications:
-- Google Data Analytics — Coursera (2026)
-- IBM Data Analyst Professional Certificate — Coursera (2026)
-- Microsoft Power BI Data Analyst — Coursera (2026)
+- Google Data Analytics - Coursera (2026)
+- IBM Data Analyst Professional Certificate - Coursera (2026)
+- Microsoft Power BI Data Analyst - Coursera (2026)
 - Udemy Complete Data Science Bootcamp (2025)
 
 🔗 Profiles:
