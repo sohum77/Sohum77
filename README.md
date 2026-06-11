@@ -1,9 +1,13 @@
 ## Hi, I'm Sohum 👋
 
 🎓 MSc Advanced Computer Science with Data Science
+
 🏫 University of Strathclyde, Glasgow, UK (Graduating Jan 2027)
+
 🌍 UK Graduate Route Visa eligible - no sponsorship required
+
 💡 Interests: Data Science, Machine Learning, NLP, Computer Vision
+
 🛠 Skills: Python, SQL, Pandas, NumPy, Scikit-learn, PyTorch, BERT, YOLOv5, Power BI, Flask, Streamlit, Git
 
 📌 Featured Projects:
