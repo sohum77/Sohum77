@@ -8,7 +8,7 @@
 
 💡 Interests: Data Science, Machine Learning and NLP
 
-🛠 Skills: Python, SQL, BERT, YOLOv5, Power BI,Cognos Analytics,Git
+🛠 Skills: Python, SQL, BERT, YOLOv5, Power BI, Cognos Analytics,Git
 
 📌 Featured Projects:
 - **Cyberbullying Detection System** (BERT, NLP, Flask, PyQt5) - 94% accuracy
