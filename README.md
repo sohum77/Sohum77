@@ -8,12 +8,11 @@
 
 💡 Interests: Data Science, Machine Learning and NLP
 
-🛠 Skills: Python, SQL, BERT, YOLOv5, Power BI, Cognos Analytics, Docker, Git
+🛠 Skills: Python, SQL, BERT, YOLOv5, Power BI, Cognos Analytics, Git
 
 📌 Featured Projects:
 - **Cyberbullying Detection System** (BERT, NLP, Flask, PyQt5) - 94% accuracy
 - **Traffic Sign Detection** (YOLOv5, OpenCV, PyTorch) - real-time detection
-- **Production-Ready Recommendation System** (FastAPI, Docker, Cloud) - 🔄 in progress
 
 🏅 Certifications:
 - Google Data Analytics Professional Certificate - Coursera (2026)
