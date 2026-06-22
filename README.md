@@ -12,10 +12,10 @@
 
 📌 Featured Projects:
 
-**LLM-Based Hospital Readmission Risk Prediction (LLMs, Ollama, Llama 3.2, Scikit-learn)** - dissertation; predicting 30-day readmission risk from clinical discharge notes
-**Cyberbullying Detection System (BERT, NLP, Flask, PyQt5)** - 94% accuracy
-**Traffic Sign Detection** (YOLOv5, OpenCV, PyTorch) - object detection pipeline for road signs
-**Automated Stock Trading Bot (Python, Pandas, REST APIs)** - moving-average crossover strategy
+- **LLM-Based Hospital Readmission Risk Prediction (LLMs, Ollama, Llama 3.2, Scikit-learn)** - dissertation; predicting 30-day readmission risk from clinical discharge notes
+- **Cyberbullying Detection System (BERT, NLP, Flask, PyQt5)** - 94% accuracy
+- **Traffic Sign Detection** (YOLOv5, OpenCV, PyTorch) - object detection pipeline for road signs
+- **Automated Stock Trading Bot (Python, Pandas, REST APIs)** - moving-average crossover strategy
 
 🏅 Certifications:
 - Microsoft Azure Data Scientist Associate (DP-100) Exam Prep Professional Certificate - Coursera (2026)
